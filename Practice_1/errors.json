@@ -1,0 +1,8 @@
+[
+  {
+    "stage": "cdx",
+    "index": "CC-MAIN-2026-39",
+    "domain": "pstu.ru",
+    "error": "400 Client Error: Bad Request for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=pstu.ru&matchType=domain&output=json&limit=1000"
+  }
+]
